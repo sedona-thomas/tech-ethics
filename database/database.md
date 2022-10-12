@@ -1,3 +1,3 @@
-|Title|Ethics Violation|Perpetrator|Technology|Source|
-|:------|:-------------|:--------|:--------|
-|||||
+| Title | Ethics Violation | Perpetrator | Technology | Source |
+| :------ | :------------- | :-------- | :-------- |
+| | | | |
